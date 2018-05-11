@@ -1,0 +1,20 @@
+/**
+ * Google Fonts Demo
+ **/
+.thought1
+        {
+            font-family: 'Titan One', cursive;
+            font-size: 22px;
+        }
+.thought2 
+{
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+
+}
+.thought3
+{
+    font-family: 'Lobster', cursive;
+    font-size: 28px; 
+}         
+/* Add in the Google Fonts of your choice */
